@@ -1,0 +1,37 @@
+.skill-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill-icon {
+    text-align: center;
+    flex: 1;
+}
+
+.skill-icon  {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.skill-icon span {
+    display: block;
+}
+
+.container-content{
+    margin-top: 60px;
+}
+
+h6{
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+.img2{
+    width: 340px;
+}
+.img3{
+    width: 300px;
+}
+.img4{
+    width: 200px;
+}
